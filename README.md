@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PyNavaid
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science, flutter Development
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👋 Hi, I’m Navaid Ali
+- 👀 I’m a Mobile App Developer(Flutter, React Native) and a data scientiest.
+- 🌱 I’m currently working more and more on Data Science, flutter Development
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me navaidtechnologies@gmail.com
 
 <!---
